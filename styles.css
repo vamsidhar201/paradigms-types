@@ -1,0 +1,94 @@
+
+
+body{
+  margin: 0 ;
+  padding: 0;
+  height: 0;
+  width: auto;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+
+}
+/***************************************** nav bar ************************************************/
+ul{
+
+  margin: 0 0 0 0;
+  padding:20px;
+background: gray;
+
+text-align: center;
+
+}
+li {
+  display: inline;
+  margin-right: 150px;
+  margin-left: 80px;
+  padding: 0;
+}
+li a{
+  font-size: 20px;
+  color:white;
+
+
+}
+
+/******************************************************************************************************/
+h1{
+  text-align: center;
+font-family: 'Montserrat', sans-serif;
+padding-top: 20px;
+}
+.top-container{
+margin-top: 50px;
+
+}
+img{
+  height: 100%;
+  width: 100%;
+
+}
+.picture{
+  height: 50%;
+  width: 25%;
+  position: absolute;
+  bottom:  20px;
+  left: 50px;
+
+
+  text-align: right;
+  
+  box-shadow: gray 10px 5px;
+}
+h3{
+  padding: 10px;
+  line-height: 3;
+  background-color: #d7fffd;
+  text-transform: uppercase;
+
+}
+middle-conatiner{
+  margin: 100px;
+  padding-top: 100px;
+
+
+}
+.Contact{
+  line-height: 5;
+
+}
+h4{
+  text-align: center;
+  padding: 20px;
+  color: #18b0b0;
+
+
+}
+.paradigm{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  position: absolute;
+  left: 50px;
+
+
+}
