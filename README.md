@@ -1,2 +1,2 @@
-# jay
+# vamsi
 paradigms
